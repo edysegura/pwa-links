@@ -11,3 +11,7 @@ Progressive Web Apps curated links:
 ## Tools
 
 - [Workbox - Libraries and modules that make it easy to cache assets](https://developers.google.com/web/tools/workbox/)
+
+## References
+
+- [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers)
