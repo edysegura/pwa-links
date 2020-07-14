@@ -18,6 +18,6 @@ Progressive Web Apps curated links:
 
 ## References
 
-- [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers)
+- [Service Workers: Introduction](https://developers.google.com/web/fundamentals/primers/service-workers)
 - [Service Workers: Lifecycle](https://developers.google.com/web/fundamentals/primers/service-workers/lifecycle)
-- [Service Worker Caching Strategies](https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c)
+- [Service Workers: Caching Strategies](https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c)
