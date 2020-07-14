@@ -21,3 +21,4 @@ Progressive Web Apps curated links:
 - [Service Workers: Introduction](https://developers.google.com/web/fundamentals/primers/service-workers)
 - [Service Workers: Lifecycle](https://developers.google.com/web/fundamentals/primers/service-workers/lifecycle)
 - [Service Workers: Caching Strategies](https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c)
+- [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
