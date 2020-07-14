@@ -16,6 +16,10 @@ Progressive Web Apps curated links:
 
 - [Service Worker Registration](https://developers.google.com/web/fundamentals/primers/service-workers/registration)
 
+## Free Courses
+
+- [PWA Tutorial for Beginners](https://www.youtube.com/watch?v=4XT23X0Fjfk&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
+
 ## References
 
 - [Service Workers: Introduction](https://developers.google.com/web/fundamentals/primers/service-workers)
