@@ -27,3 +27,4 @@ Progressive Web Apps curated links:
 - [Service Workers: Caching Strategies](https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c)
 - [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
 - [Cache API](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
+- [Storage for the web](https://www.youtube.com/watch?v=NNuTV-gjlZQ)
