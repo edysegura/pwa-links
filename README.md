@@ -20,6 +20,10 @@ Progressive Web Apps curated links:
 
 - [PWA Tutorial for Beginners](https://www.youtube.com/watch?v=4XT23X0Fjfk&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
 
+## PWA Store
+
+- [Directories for Progressive Web Apps (PWAs)](https://appsco.pe/)
+
 ## References
 
 - [Service Workers: Introduction](https://developers.google.com/web/fundamentals/primers/service-workers)
@@ -28,3 +32,4 @@ Progressive Web Apps curated links:
 - [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
 - [Cache API](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
 - [Storage for the web](https://www.youtube.com/watch?v=NNuTV-gjlZQ)
+
