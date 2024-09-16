@@ -18,6 +18,7 @@ Progressive Web Apps curated links:
 
 ## Free Courses
 
+- [Understanding Service Workers](https://www.youtube.com/playlist?list=PLyuRouwmQCjl4iJgjH3i61tkqauM-NTGj)
 - [PWA Tutorial for Beginners](https://www.youtube.com/watch?v=4XT23X0Fjfk&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
 
 ## PWA Store
